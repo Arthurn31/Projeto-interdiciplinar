@@ -1,0 +1,40 @@
+OBJETIVO:
+Fornecer ao usuario um total controle do estoque, mostrando os lucros e despesas;
+
+
+SISTEMA(oque fornecerá):
+
+o que mais vende;
+o que menos vende;
+lucros mensais/anuais;
+media de venda;
+
+
+
+COMO VAI FUNCIONAR NA PRATICA
+
+Um usuario/empresa ira logar em sua conta ou registrar.
+O usuario poderá registrar um produto, seu preço, codigo , fornecedor, e deverá informar o preço a pagar ao fornecedor, se possuem filiais e se tiverem quantas.
+O sistema irá automaticamente fazer os calculos dos lucros, despesas, e ter um controle do estoque, isso é:
+
+Produtos no estoque;
+Quantidade padrão de produtos;
+quantos produtos sairam;
+quantos produtos entraram;
+tipo de produto: unitario/grama;
+
+
+cada usuario fará parte de uma empresa, cada empresa tera varios usuarios, cada empresa terá varias filiais, e cada filial terá seus proprios lucros e despesas;
+cada usuario podera pertencer a varias filiais,	e uma filial terá um gerente e varios usuarios;
+
+
+QUANTOS PRODUTOS QUE FALTAM =  QUANTIDADE PADRÃO - QUANTIDADE NO ESTOQUE
+
+
+QUANTOS PRODUTOS SAIRAM = DIA X FORAM VENDIDOS Y PRODUTOS;
+
+
+//CALCULOS
+DATA DO DIA
+O PRODUTO = -SUBTRAIR UM PRODUTO DO ESTOQUE OU +ALMENTAR A QUANTRIDADE DE UMA VARIAVEL CHAMADA VENDAS
+

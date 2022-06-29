@@ -1,0 +1,61 @@
+C:\Users\italo\OneDrive\Área de Trabalho\COTEMIG\TRABALHO_INTERDICIPLINAR\c#\interdisciplinar\interdisciplinar\bin\Debug\interdisciplinar.exe.config
+C:\Users\italo\OneDrive\Área de Trabalho\COTEMIG\TRABALHO_INTERDICIPLINAR\c#\interdisciplinar\interdisciplinar\bin\Debug\interdisciplinar.exe
+C:\Users\italo\OneDrive\Área de Trabalho\COTEMIG\TRABALHO_INTERDICIPLINAR\c#\interdisciplinar\interdisciplinar\bin\Debug\interdisciplinar.pdb
+C:\Users\italo\OneDrive\Área de Trabalho\COTEMIG\TRABALHO_INTERDICIPLINAR\c#\interdisciplinar\interdisciplinar\bin\Debug\MySql.Data.dll
+C:\Users\italo\OneDrive\Área de Trabalho\COTEMIG\TRABALHO_INTERDICIPLINAR\c#\interdisciplinar\interdisciplinar\bin\Debug\MySqlConnector.dll
+C:\Users\italo\OneDrive\Área de Trabalho\COTEMIG\TRABALHO_INTERDICIPLINAR\c#\interdisciplinar\interdisciplinar\bin\Debug\Google.Protobuf.dll
+C:\Users\italo\OneDrive\Área de Trabalho\COTEMIG\TRABALHO_INTERDICIPLINAR\c#\interdisciplinar\interdisciplinar\bin\Debug\Zstandard.Net.dll
+C:\Users\italo\OneDrive\Área de Trabalho\COTEMIG\TRABALHO_INTERDICIPLINAR\c#\interdisciplinar\interdisciplinar\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\italo\OneDrive\Área de Trabalho\COTEMIG\TRABALHO_INTERDICIPLINAR\c#\interdisciplinar\interdisciplinar\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\italo\OneDrive\Área de Trabalho\COTEMIG\TRABALHO_INTERDICIPLINAR\c#\interdisciplinar\interdisciplinar\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\italo\OneDrive\Área de Trabalho\COTEMIG\TRABALHO_INTERDICIPLINAR\c#\interdisciplinar\interdisciplinar\bin\Debug\System.Memory.dll
+C:\Users\italo\OneDrive\Área de Trabalho\COTEMIG\TRABALHO_INTERDICIPLINAR\c#\interdisciplinar\interdisciplinar\bin\Debug\System.Buffers.dll
+C:\Users\italo\OneDrive\Área de Trabalho\COTEMIG\TRABALHO_INTERDICIPLINAR\c#\interdisciplinar\interdisciplinar\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\italo\OneDrive\Área de Trabalho\COTEMIG\TRABALHO_INTERDICIPLINAR\c#\interdisciplinar\interdisciplinar\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\italo\OneDrive\Área de Trabalho\COTEMIG\TRABALHO_INTERDICIPLINAR\c#\interdisciplinar\interdisciplinar\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\italo\OneDrive\Área de Trabalho\COTEMIG\TRABALHO_INTERDICIPLINAR\c#\interdisciplinar\interdisciplinar\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\italo\OneDrive\Área de Trabalho\COTEMIG\TRABALHO_INTERDICIPLINAR\c#\interdisciplinar\interdisciplinar\bin\Debug\MySql.Data.xml
+C:\Users\italo\OneDrive\Área de Trabalho\COTEMIG\TRABALHO_INTERDICIPLINAR\c#\interdisciplinar\interdisciplinar\bin\Debug\MySqlConnector.xml
+C:\Users\italo\OneDrive\Área de Trabalho\COTEMIG\TRABALHO_INTERDICIPLINAR\c#\interdisciplinar\interdisciplinar\obj\Debug\interdisciplinar.csproj.AssemblyReference.cache
+C:\Users\italo\OneDrive\Área de Trabalho\COTEMIG\TRABALHO_INTERDICIPLINAR\c#\interdisciplinar\interdisciplinar\obj\Debug\interdisciplinar.exe.config
+C:\Users\italo\OneDrive\Área de Trabalho\COTEMIG\TRABALHO_INTERDICIPLINAR\c#\interdisciplinar\interdisciplinar\obj\Debug\interdisciplinar.Form1.resources
+C:\Users\italo\OneDrive\Área de Trabalho\COTEMIG\TRABALHO_INTERDICIPLINAR\c#\interdisciplinar\interdisciplinar\obj\Debug\interdisciplinar.frmintensvenda.resources
+C:\Users\italo\OneDrive\Área de Trabalho\COTEMIG\TRABALHO_INTERDICIPLINAR\c#\interdisciplinar\interdisciplinar\obj\Debug\interdisciplinar.frmprodutos.resources
+C:\Users\italo\OneDrive\Área de Trabalho\COTEMIG\TRABALHO_INTERDICIPLINAR\c#\interdisciplinar\interdisciplinar\obj\Debug\interdisciplinar.frmvendas.resources
+C:\Users\italo\OneDrive\Área de Trabalho\COTEMIG\TRABALHO_INTERDICIPLINAR\c#\interdisciplinar\interdisciplinar\obj\Debug\interdisciplinar.Properties.Resources.resources
+C:\Users\italo\OneDrive\Área de Trabalho\COTEMIG\TRABALHO_INTERDICIPLINAR\c#\interdisciplinar\interdisciplinar\obj\Debug\interdisciplinar.csproj.GenerateResource.cache
+C:\Users\italo\OneDrive\Área de Trabalho\COTEMIG\TRABALHO_INTERDICIPLINAR\c#\interdisciplinar\interdisciplinar\obj\Debug\interdisciplinar.csproj.CoreCompileInputs.cache
+C:\Users\italo\OneDrive\Área de Trabalho\COTEMIG\TRABALHO_INTERDICIPLINAR\c#\interdisciplinar\interdisciplinar\obj\Debug\interdisciplinar.csproj.CopyComplete
+C:\Users\italo\OneDrive\Área de Trabalho\COTEMIG\TRABALHO_INTERDICIPLINAR\c#\interdisciplinar\interdisciplinar\obj\Debug\interdisciplinar.exe
+C:\Users\italo\OneDrive\Área de Trabalho\COTEMIG\TRABALHO_INTERDICIPLINAR\c#\interdisciplinar\interdisciplinar\obj\Debug\interdisciplinar.pdb
+H:\TRABALHO_INTERDICIPLINAR\interdisciplinar\interdisciplinar\bin\Debug\interdisciplinar.exe.config
+H:\TRABALHO_INTERDICIPLINAR\interdisciplinar\interdisciplinar\bin\Debug\interdisciplinar.exe
+H:\TRABALHO_INTERDICIPLINAR\interdisciplinar\interdisciplinar\bin\Debug\interdisciplinar.pdb
+H:\TRABALHO_INTERDICIPLINAR\interdisciplinar\interdisciplinar\bin\Debug\MySql.Data.dll
+H:\TRABALHO_INTERDICIPLINAR\interdisciplinar\interdisciplinar\bin\Debug\Google.Protobuf.dll
+H:\TRABALHO_INTERDICIPLINAR\interdisciplinar\interdisciplinar\bin\Debug\Zstandard.Net.dll
+H:\TRABALHO_INTERDICIPLINAR\interdisciplinar\interdisciplinar\bin\Debug\K4os.Compression.LZ4.Streams.dll
+H:\TRABALHO_INTERDICIPLINAR\interdisciplinar\interdisciplinar\bin\Debug\BouncyCastle.Crypto.dll
+H:\TRABALHO_INTERDICIPLINAR\interdisciplinar\interdisciplinar\bin\Debug\Ubiety.Dns.Core.dll
+H:\TRABALHO_INTERDICIPLINAR\interdisciplinar\interdisciplinar\bin\Debug\System.Memory.dll
+H:\TRABALHO_INTERDICIPLINAR\interdisciplinar\interdisciplinar\bin\Debug\System.Buffers.dll
+H:\TRABALHO_INTERDICIPLINAR\interdisciplinar\interdisciplinar\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\TRABALHO_INTERDICIPLINAR\interdisciplinar\interdisciplinar\bin\Debug\K4os.Compression.LZ4.dll
+H:\TRABALHO_INTERDICIPLINAR\interdisciplinar\interdisciplinar\bin\Debug\K4os.Hash.xxHash.dll
+H:\TRABALHO_INTERDICIPLINAR\interdisciplinar\interdisciplinar\bin\Debug\System.Numerics.Vectors.dll
+H:\TRABALHO_INTERDICIPLINAR\interdisciplinar\interdisciplinar\bin\Debug\MySql.Data.xml
+H:\TRABALHO_INTERDICIPLINAR\interdisciplinar\interdisciplinar\bin\Debug\MySqlConnector.xml
+H:\TRABALHO_INTERDICIPLINAR\interdisciplinar\interdisciplinar\obj\Debug\interdisciplinar.csprojAssemblyReference.cache
+H:\TRABALHO_INTERDICIPLINAR\interdisciplinar\interdisciplinar\obj\Debug\interdisciplinar.exe.config
+H:\TRABALHO_INTERDICIPLINAR\interdisciplinar\interdisciplinar\obj\Debug\interdisciplinar.frmintensvenda.resources
+H:\TRABALHO_INTERDICIPLINAR\interdisciplinar\interdisciplinar\obj\Debug\interdisciplinar.frmprodutos.resources
+H:\TRABALHO_INTERDICIPLINAR\interdisciplinar\interdisciplinar\obj\Debug\interdisciplinar.frmvendas.resources
+H:\TRABALHO_INTERDICIPLINAR\interdisciplinar\interdisciplinar\obj\Debug\interdisciplinar.Properties.Resources.resources
+H:\TRABALHO_INTERDICIPLINAR\interdisciplinar\interdisciplinar\obj\Debug\interdisciplinar.csproj.GenerateResource.cache
+H:\TRABALHO_INTERDICIPLINAR\interdisciplinar\interdisciplinar\obj\Debug\interdisciplinar.csproj.CopyComplete
+H:\TRABALHO_INTERDICIPLINAR\interdisciplinar\interdisciplinar\obj\Debug\interdisciplinar.exe
+H:\TRABALHO_INTERDICIPLINAR\interdisciplinar\interdisciplinar\obj\Debug\interdisciplinar.pdb
+H:\TRABALHO_INTERDICIPLINAR\interdisciplinar\interdisciplinar\obj\Debug\interdisciplinar.Form2.resources
+H:\TRABALHO_INTERDICIPLINAR\interdisciplinar\interdisciplinar\obj\Debug\interdisciplinar.Form1.resources
+C:\Users\italo\OneDrive\Área de Trabalho\COTEMIG\TRABALHO_INTERDICIPLINAR\c#\interdisciplinar\interdisciplinar\obj\Debug\interdisciplinar.Form2.resources
+C:\Users\italo\OneDrive\Área de Trabalho\COTEMIG\TRABALHO_INTERDICIPLINAR\c#\interdisciplinar\interdisciplinar\obj\Debug\interdisciplinar.frmEstatisticas.resources
